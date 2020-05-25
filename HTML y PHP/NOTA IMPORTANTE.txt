@@ -1,0 +1,2 @@
+Disculpen el inconveniente, a la hora de grabar el video no me percaté que solo se permite grabar una aplicación, por lo que la parte en donde se 
+explica el PHP no aparece. El archivo que se explica es el que se encuentra en esta carpeta con el nombre index.php
